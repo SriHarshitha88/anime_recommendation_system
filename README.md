@@ -1,6 +1,5 @@
 # Anime Recommendation System
 
-![Groq](https://img.shields.io/badge/Groq-LLM-blue?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMDAwMDAwIiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCI+PHBhdGggZD0iTTAgMGgyNHYyNEgwVjB6Ii8+PC9zdmc+)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Embeddings-yellow?logo=huggingface)
 ![Langchain](https://img.shields.io/badge/Langchain-Framework-green?logo=python)
 ![GCP VM](https://img.shields.io/badge/GCP%20VM-Cloud-blue?logo=googlecloud)
@@ -80,6 +79,3 @@ k8s.yaml       # Kubernetes deployment
 
 ---
 
-## License
-
-MIT 
