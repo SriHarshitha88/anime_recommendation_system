@@ -32,11 +32,10 @@ This project is an **Anime Recommendation System** that leverages state-of-the-a
 
 ---
 
-## Architecture
+## Video Demo
 
-![Architecture Diagram](./docs/architecture.png)
-
-*Above: System architecture showing project setup, core code, and deployment pipeline.*
+[//]: # (Replace the link below with your video demo once uploaded)
+[![Watch the video](https://img.shields.io/badge/Video-Demo-blue?logo=youtube)](VIDEO_LINK_HERE)
 
 ---
 
@@ -62,15 +61,6 @@ utils/         # Utilities (logging, exceptions)
 Dockerfile     # Containerization
 k8s.yaml       # Kubernetes deployment
 ```
-
----
-
-## Video Demo
-
-[//]: # (Replace the link below with your video demo once uploaded)
-[![Watch the video](https://img.shields.io/badge/Video-Demo-blue?logo=youtube)](VIDEO_LINK_HERE)
-
----
 
 ## Getting Started
 
