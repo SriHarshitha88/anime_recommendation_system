@@ -34,7 +34,7 @@ This project is an **Anime Recommendation System** that leverages state-of-the-a
 
 ## Architecture
 
-![Architecture Diagram](./docs/architecture.png)
+![Architecture Diagram](<img width="2988" height="641" alt="image" src="https://github.com/user-attachments/assets/83dd24a9-3bec-4360-9461-9fef84ddafcc" />)
 
 *Above: System architecture showing project setup, core code, and deployment pipeline.*
 
